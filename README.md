@@ -27,3 +27,5 @@ https://github.com/user-attachments/assets/e8b00da0-879b-41c6-a4ca-08858172b418
 - **🎩 ¿Y eso de los sombreros (`S`)?** Si te lo pones, te sumas una vida.
 - **🍬 Última pregunta… ¿Y las golosinas (`G`)?** Al comerlas, te suman veinte puntos de energía.
 > 😜 _Pro tip_: Las _flechitas_ que están arriba y a la izquierda del mapa te indican dónde está Perry, para que no lo pierdas.
+
+> ⚠️ _Not Windows friendly._ (Únicamente soporta Linux y macOS.)
